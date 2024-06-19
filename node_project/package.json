@@ -2,7 +2,7 @@
     "name": "nodejs-image-demo",
     "version": "1.0.0",
     "description": "nodejs image demo",
-    "author": "Sammy the Shark <sammy@example.com>",
+    "author": "Levy Edgar the Shark <edgarlevy81@gmail.com>",
     "license": "MIT",
     "main": "app.js",
     "keywords": [
@@ -11,6 +11,6 @@
       "express"
     ],
     "dependencies": {
-      "express": "^4.16.4"
+      "express": "^4.19.2"
     }
   }
